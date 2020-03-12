@@ -2,6 +2,7 @@
 #define _LIBFT_H_
 #include <unistd.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 char	*ft_strdup(const char *str);
 void	ft_strcpy(char *dest, char *src);
